@@ -1,0 +1,10 @@
+[package]
+name = "hecto"
+version = "0.0.1"
+edition = "2021"
+authors = ["Luca"]
+
+
+[dependencies]
+termion = "2.0.1"
+unicode-segmentation = "1.10.1"
